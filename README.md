@@ -21,7 +21,7 @@ This code provides a solution to the knapsack problem using dynamic programming.
 
 Data Format
 
-The program reads data from the "veriler.txt" file. The file should have the following format:
+The program reads data from the "data.txt" file. The file should have the following format:
 <values>
 <weights>
 <capacity>
