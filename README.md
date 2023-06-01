@@ -32,6 +32,6 @@ Capacity: An integer representing the capacity of the knapsack.
 Output
 The program displays the maximum value achieved and the weights of the selected items.
 
-Sample output:
+Sample output => 
 Maximum value: 150
 Used weights: 10, 20, 30
